@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lewis Nwankaegho @sunrise19 
 - 👀 I’m interested in connecting with people
 - 🌱 I’m currently learning Laravel (PHP framework)
-- 💞️ I’m looking to collaborate on website developers and mobile app developers 
+- 💞️ I’m looking to collaborate with website developers and mobile app developers 
 - 📫 How to reach me ...
 
 <!---
