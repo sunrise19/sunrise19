@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lewis Nwankaegho @sunrise19 
 - 👀 I’m interested in connecting with people
-- 🌱 I’m currently learning Laravel (PHP framework)
+- 🌱 I’m currently learning and working with Laravel (PHP framework)
 - 💞️ I’m looking to collaborate with website developers and mobile app developers 
 - 📫 How to reach me; send me an email: nwankaegholewis@gmail.com or send me a message on whatsapp: 08102328754
 
